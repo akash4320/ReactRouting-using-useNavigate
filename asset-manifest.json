@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.065bec60.css",
+    "main.js": "/static/js/main.1ce42d2a.js",
+    "static/js/787.69edda74.chunk.js": "/static/js/787.69edda74.chunk.js",
+    "static/media/NXP_Logo.png": "/static/media/NXP_Logo.292c8c0988b28219db89.png",
+    "index.html": "/index.html",
+    "main.065bec60.css.map": "/static/css/main.065bec60.css.map",
+    "main.1ce42d2a.js.map": "/static/js/main.1ce42d2a.js.map",
+    "787.69edda74.chunk.js.map": "/static/js/787.69edda74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065bec60.css",
+    "static/js/main.1ce42d2a.js"
+  ]
+}
